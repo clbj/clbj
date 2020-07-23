@@ -8,7 +8,6 @@ I'm a Computer Scientist and a senior software engineer with over 17 years of ex
 - ⚙️ I'm currently working with languages and tools such as `Python`, `Go`, `Docker`, `Kubernetes`, `Prometheus`, `Grafana`, `Loki`, `Elastic`, `NoSql`, `...`
 - 🌱 Learning more about and studying: **Kubernetes, Serverless Computing, Computer Vision, GraphQl**
 - 📫 Reach me if you have cool projects related to: **software development**, **DevOps**, **large-scale API's** ...
-- 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Where to find me 🌎:
 - 💼 Professional updates on <a href="https://www.linkedin.com/in/cloves/">LinkedIn</a>
