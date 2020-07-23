@@ -10,5 +10,5 @@ I'm a Computer Scientist and a senior software engineer with over 17 years of ex
 - 📫 Reach me if you have cool projects related to: **software development**, **DevOps**, **large-scale API's** ...
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
-#### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/cloves/">LinkedIn</a>
+#### Where to find me 🌎:
+- 💼 Professional updates on <a href="https://www.linkedin.com/in/cloves/">LinkedIn</a>
